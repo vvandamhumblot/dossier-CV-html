@@ -2,6 +2,7 @@
     text-align: center;
     background-color: gray;
     width: 100%;
+    font-size: 12px;
 }
 
 #school {
@@ -9,7 +10,6 @@
     width: 80%;
     text-align: center;
     transform: translate(13%, 0%)
-
 }
 
 #diploma {
@@ -31,4 +31,10 @@ background-color: darkgray;
     width: 80%;
     text-align: center;
     transform: translate(13%, 0%)
+}
+
+.texte{
+    text-align: center;
+    font-size: 18px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
 }
