@@ -20,7 +20,7 @@
 }
 
 #qualification {
-background-color: darkgray;
+    background-color: darkgray;
     width: 80%;
     text-align: center;
     transform: translate(13%, 0%)
@@ -34,7 +34,7 @@ background-color: darkgray;
 }
 
 .texte{
-    text-align: center;
     font-size: 18px;
-    font-family:Verdana, Geneva, Tahoma, sans-serif
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    transform: translate(13%, 0%);
 }
